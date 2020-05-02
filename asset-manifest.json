@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/car-parking-lot-system/static/css/main.f35d5af2.chunk.css",
+    "main.js": "/car-parking-lot-system/static/js/main.43efffb9.chunk.js",
+    "main.js.map": "/car-parking-lot-system/static/js/main.43efffb9.chunk.js.map",
+    "runtime-main.js": "/car-parking-lot-system/static/js/runtime-main.53812749.js",
+    "runtime-main.js.map": "/car-parking-lot-system/static/js/runtime-main.53812749.js.map",
+    "static/js/2.907c1962.chunk.js": "/car-parking-lot-system/static/js/2.907c1962.chunk.js",
+    "static/js/2.907c1962.chunk.js.map": "/car-parking-lot-system/static/js/2.907c1962.chunk.js.map",
+    "index.html": "/car-parking-lot-system/index.html",
+    "precache-manifest.d4cca10dc7c90895c22d2c34eb79c292.js": "/car-parking-lot-system/precache-manifest.d4cca10dc7c90895c22d2c34eb79c292.js",
+    "service-worker.js": "/car-parking-lot-system/service-worker.js",
+    "static/css/main.f35d5af2.chunk.css.map": "/car-parking-lot-system/static/css/main.f35d5af2.chunk.css.map",
+    "static/js/2.907c1962.chunk.js.LICENSE.txt": "/car-parking-lot-system/static/js/2.907c1962.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53812749.js",
+    "static/js/2.907c1962.chunk.js",
+    "static/css/main.f35d5af2.chunk.css",
+    "static/js/main.43efffb9.chunk.js"
+  ]
+}
